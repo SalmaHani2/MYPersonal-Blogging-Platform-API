@@ -1,10 +1,9 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Authorization;
 using System.Security.Claims;
-using MyPersonalBloggingPlatformAPI.DTOs.Articles;
-using MyPersonalBloggingPlatformAPI.DTOs.Common;
-using MyPersonalBloggingPlatformAPI.Models;
 using PersonalBloggingPlatformAPI.DTOs.Articles;
+using PersonalBloggingPlatformAPI.DTOs.Common;
+using PersonalBloggingPlatformAPI.Models;
 using PersonalBloggingPlatformAPI.Services.Articles;
 
 namespace PersonalBloggingPlatformAPI.Controllers;

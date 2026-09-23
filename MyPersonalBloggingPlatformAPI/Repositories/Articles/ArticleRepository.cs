@@ -1,8 +1,8 @@
 ﻿using Microsoft.EntityFrameworkCore;
-using MyPersonalBloggingPlatformAPI.Models;
+using PersonalBloggingPlatformAPI.Models;
 using PersonalBloggingPlatformAPI.Data;
 using PersonalBloggingPlatformAPI.DTOs.Articles;
-using MyPersonalBloggingPlatformAPI.DTOs.Common;
+using PersonalBloggingPlatformAPI.DTOs.Common;
 
 namespace PersonalBloggingPlatformAPI.Repositories.Articles;
 

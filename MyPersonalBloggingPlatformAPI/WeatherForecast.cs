@@ -1,4 +1,4 @@
-namespace MyPersonalBloggingPlatformAPI
+namespace PersonalBloggingPlatformAPI
 {
     public class WeatherForecast
     {

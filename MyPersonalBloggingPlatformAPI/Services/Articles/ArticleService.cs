@@ -1,7 +1,7 @@
 ﻿using PersonalBloggingPlatformAPI.DTOs.Articles;
-using MyPersonalBloggingPlatformAPI.Models;
+using PersonalBloggingPlatformAPI.Models;
 using PersonalBloggingPlatformAPI.Repositories.Articles;
-using MyPersonalBloggingPlatformAPI.DTOs.Common;
+using PersonalBloggingPlatformAPI.DTOs.Common;
 
 namespace PersonalBloggingPlatformAPI.Services.Articles;
 

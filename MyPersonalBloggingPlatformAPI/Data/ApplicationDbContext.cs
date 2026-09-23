@@ -1,5 +1,4 @@
 ﻿using Microsoft.EntityFrameworkCore;
-using MyPersonalBloggingPlatformAPI.Models;
 using PersonalBloggingPlatformAPI.Models;
 
 namespace PersonalBloggingPlatformAPI.Data;
