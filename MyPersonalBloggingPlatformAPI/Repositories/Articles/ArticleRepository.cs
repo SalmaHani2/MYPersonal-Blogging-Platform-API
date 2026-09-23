@@ -2,6 +2,7 @@
 using MyPersonalBloggingPlatformAPI.Models;
 using PersonalBloggingPlatformAPI.Data;
 using PersonalBloggingPlatformAPI.DTOs.Articles;
+using MyPersonalBloggingPlatformAPI.DTOs.Common;
 
 namespace PersonalBloggingPlatformAPI.Repositories.Articles;
 
